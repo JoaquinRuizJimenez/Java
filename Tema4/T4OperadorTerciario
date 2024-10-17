@@ -1,0 +1,23 @@
+public class T4OperadorTerciario{
+
+    public static void main(String[] args){
+
+        String edadIf = "";
+        String edadTernario = "";
+
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Introduzca la nota numérica: ")
+        int edadNumerica = sc.nextInt();
+
+        if (edadNumerica >= 18) {edadIf = "El usuario es mayor de edad"; }
+
+        else{edadIf = "El usuario es menor de edad";}
+
+        System.out.println(edadIf);
+
+        edadTernario = (edadNumerica >= 18)?"El usuario es mayor de edad":"El usuario es menor de edad";
+        
+
+    }
+
+}
