@@ -1,0 +1,162 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "T3EntradaE3",
+            "request": "launch",
+            "mainClass": "T3EntradaE3",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3EntradaE2",
+            "request": "launch",
+            "mainClass": "T3EntradaE2",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3EntradaE1",
+            "request": "launch",
+            "mainClass": "T3EntradaE1",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "colores",
+            "request": "launch",
+            "mainClass": "colores",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3EJ12",
+            "request": "launch",
+            "mainClass": "T3EJ12",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3E10",
+            "request": "launch",
+            "mainClass": "T3E10",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3E9",
+            "request": "launch",
+            "mainClass": "T3E9",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3E8",
+            "request": "launch",
+            "mainClass": "T3E8",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "EJ1T3",
+            "request": "launch",
+            "mainClass": "EJ1T3",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "Apunte",
+            "request": "launch",
+            "mainClass": "Apunte",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3Ejemplos2",
+            "request": "launch",
+            "mainClass": "T3Ejemplos2",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T3Ejemplos",
+            "request": "launch",
+            "mainClass": "T3Ejemplos",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T2E7",
+            "request": "launch",
+            "mainClass": "T2E7",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T2E3",
+            "request": "launch",
+            "mainClass": "T2E3",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "tema2ej2",
+            "request": "launch",
+            "mainClass": "tema2ej2",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "tema2ej1",
+            "request": "launch",
+            "mainClass": "tema2ej1",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T2E1",
+            "request": "launch",
+            "mainClass": "T2E1",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "josecortes",
+            "request": "launch",
+            "mainClass": "josecortes",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04",
+            "request": "launch",
+            "mainClass": "Ejercicio04",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio03",
+            "request": "launch",
+            "mainClass": "Ejercicio03",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "EjemploVariableCadenas",
+            "request": "launch",
+            "mainClass": "EjemploVariableCadenas",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
