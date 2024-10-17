@@ -1,10 +1,13 @@
-
+import java.util.Scanner;
 
 public class Tema4PruebasSeleccion{
 
     public static void main(String[] args){
 
-        int nota = 5;
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Introduzca una nota:")
+
+        int nota = sc.nextInt();
 
         if (nota < 5){
 
@@ -25,6 +28,9 @@ public class Tema4PruebasSeleccion{
         } else if (nota == 9||nota == 10){
 
             System.out.pritnln("Sobresaliente")
+
+        } else{
+            System.out.pritnln("Nota invalida")
 
         }
 
