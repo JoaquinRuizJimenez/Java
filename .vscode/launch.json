@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "T6Practica",
+            "request": "launch",
+            "mainClass": "Tema6.T6Practica",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E4EcuacionPrimerGrado",
+            "request": "launch",
+            "mainClass": "T4E4EcuacionPrimerGrado",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E3HorasExtra",
+            "request": "launch",
+            "mainClass": "T4E3HorasExtra",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E3",
+            "request": "launch",
+            "mainClass": "T4E3",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
             "name": "T4SentenciaSwitch",
             "request": "launch",
             "mainClass": "T4SentenciaSwitch",

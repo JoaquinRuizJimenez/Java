@@ -7,7 +7,7 @@ public class T3E10 {
 
 
         System.out.println("Esto es un conversor de MB a KB");
-        System.out.println("Introduzca el número de MB:");
+        System.out.print("Introduzca el número de MB: ");
 
         double megabytes = sc.nextDouble();
         
