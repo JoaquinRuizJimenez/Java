@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExamenFase3",
+            "request": "launch",
+            "mainClass": "ExamenFase3",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "ExamenFase2",
+            "request": "launch",
+            "mainClass": "ExamenFase2",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5TablaUnicode",
+            "request": "launch",
+            "mainClass": "Tema5.T5TablaUnicode",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E10",
+            "request": "launch",
+            "mainClass": "Tema5.T5E10",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E7Media",
+            "request": "launch",
+            "mainClass": "Tema5.T5E7Media",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5ETablero",
+            "request": "launch",
+            "mainClass": "Tema5.T5ETablero",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E30",
+            "request": "launch",
+            "mainClass": "Tema5.T5E30",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E17",
+            "request": "launch",
+            "mainClass": "T4E17",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E28DibujarL",
+            "request": "launch",
+            "mainClass": "Tema5.T5E28DibujarL",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E23DigitoPresentesEnNumero",
+            "request": "launch",
+            "mainClass": "Tema5.T5E23DigitoPresentesEnNumero",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E16",
+            "request": "launch",
+            "mainClass": "Tema5.T5E16",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E12",
+            "request": "launch",
+            "mainClass": "Tema5.T5E12",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E8",
+            "request": "launch",
+            "mainClass": "Tema5.T5E8",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T5E7",
+            "request": "launch",
+            "mainClass": "Tema5.T5E7",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E13OtraForma",
+            "request": "launch",
+            "mainClass": "T4E13OtraForma",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T4E13",
+            "request": "launch",
+            "mainClass": "T4E13",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T14Practica",
+            "request": "launch",
+            "mainClass": "Tema14.T14Practica",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
             "name": "T6Practica",
             "request": "launch",
             "mainClass": "Tema6.T6Practica",

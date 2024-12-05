@@ -1,5 +1,7 @@
 package Tema6;
 
+import java.util.Random;
+
 public class T6Practica {
 
     public static void main(String[] args){
@@ -48,6 +50,21 @@ public class T6Practica {
 
          System.out.println("Lanzamiento de dado: "+ (int)(Math.random()* 6 + 1));
 
+
+         /*
+          * ALTERNATIVA: Clase Random
+          */
+
+        final int CARAS_DADO_ROL = 12;
+        
+
+        Random rand = new Random();
+
+        //Dado de 12 caras
+        System.out.println("Lanzamiento de dado con clase Random: "+(rand.nextInt(CARAS_DADO_ROL)+ 1));
+
+        //Intervalo entero [3, 7]
+        System.out.println("Lanzamiento de dado con clase Random: "+ (rand.nextInt(5)+ 3));
     }
     
 }
