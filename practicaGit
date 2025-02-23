@@ -1,0 +1,9 @@
+public class practicaGit{
+
+    public static void main(String[] args) {
+        
+        System.out.println("Esto es una clase Java creada para una practica de Git de Entornos de Desarrollo");
+
+    }
+
+}
