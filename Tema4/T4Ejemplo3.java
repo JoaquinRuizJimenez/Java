@@ -6,7 +6,7 @@ public class T4Ejemplo3 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Por favor, introduzca su edad: ")
+        System.out.println("Por favor, introduzca su edad: ");
 
     }
 

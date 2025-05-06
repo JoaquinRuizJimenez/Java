@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class T3E2{

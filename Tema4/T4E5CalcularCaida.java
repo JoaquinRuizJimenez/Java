@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import java.lang.Math;
+
 
 
 public class T4E5CalcularCaida {
@@ -16,13 +16,14 @@ public class T4E5CalcularCaida {
         System.out.print("Introduce la altura (en metros) desde la que cae el objeto: ");
         float altura = sc.nextFloat();
 
-        float tiempo;
+        float tiempo = 0;
 
         float Tiempo_Sin_Raiz = ((2 * altura) / aceleracion_gravedad);
-        tiempo = sqrt(Tiempo_Sin_Raiz);
+        
         System.out.printf("\nEl objeto tarda en caer %.2f segundos.", tiempo);
+        System.out.println(Tiempo_Sin_Raiz);
 
-
+        sc.close();
 
     }
     

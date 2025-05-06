@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PruebasTarjetasRegalo",
+            "request": "launch",
+            "mainClass": "Tema9.PruebasTarjetasRegalo",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "PruebaMainGato",
+            "request": "launch",
+            "mainClass": "Tema9.PruebaMainGato",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T7E32",
+            "request": "launch",
+            "mainClass": "Tema7.T7E32",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T7E9",
+            "request": "launch",
+            "mainClass": "Tema7.T7E9",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T7E7",
+            "request": "launch",
+            "mainClass": "Tema7.T7E7",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "T7E4",
+            "request": "launch",
+            "mainClass": "Tema7.T7E4",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
+            "name": "pruebaArrays1",
+            "request": "launch",
+            "mainClass": "Tema7.pruebaArrays1",
+            "projectName": "Java_35bc7d9f"
+        },
+        {
+            "type": "java",
             "name": "ExamenFase3",
             "request": "launch",
             "mainClass": "ExamenFase3",

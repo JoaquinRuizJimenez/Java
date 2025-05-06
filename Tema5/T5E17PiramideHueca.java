@@ -47,7 +47,7 @@ public class T5E17PiramideHueca {
             if (i == 2){
                 fila = relleno + " " + fila ;
             }else{
-                fila = 
+                
             }
 
         }

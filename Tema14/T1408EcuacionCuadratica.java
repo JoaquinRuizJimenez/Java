@@ -17,6 +17,8 @@ public class T1408EcuacionCuadratica {
         c = sc.nextDouble();
 
 
+        } catch (Exception e){
+
         }
 
 
